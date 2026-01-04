@@ -1,8 +1,7 @@
 # Projeto 01 — Sistema Inteligente de RH com IA
 
 Sistema modular de RH que usa **automação (Make)** e **IA com prompts estruturados** para apoiar triagem, recrutamento, suporte ao RH e análise de clima organizacional.
-
-> **Aviso:** Projeto <img width="1536" height="1024" alt="Capa do projeto v1" src="https://github.com/user-attachments/assets/8d359177-aea9-4fcf-a840-6a69947c06da" />
+ <img width="1536" height="1024" alt="Capa do projeto v1" src="https://github.com/user-attachments/assets/8d359177-aea9-4fcf-a840-6a69947c06da" />
 de portfólio. Dados 100% fictícios/simulados.
 
 ## Documentação (Notion)
