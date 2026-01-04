@@ -5,7 +5,8 @@ Sistema modular de RH que usa **automação (Make)** e **IA com prompts estrutur
 > **Aviso:** Projeto de portfólio. Dados 100% fictícios/simulados.
 
 ## Documentação (Notion)
-- Link do Notion: ([(https://www.notion.so/Sistema-Inteligente-de-RH-com-IA-2d83f7e590238028afaee94c3925bac5?source=copy_link)])
+- - Documentação completa no Notion: [Sistema Inteligente de RH com IA](https://www.notion.so/Sistema-Inteligente-de-RH-com-IA-2d83f7e590238028afaee94c3925bac5)
+
 
 ## Conteúdo do repositório
 - `docs/` — documentação do projeto
