@@ -25,3 +25,7 @@ Dados 100% fictícios/simulados.
 2. Automação de Recrutamento
 3. Assistente de RH com IA
 4. Análise de Clima Organizacional
+
+## Documentação
+- [Visão Geral](/docs/01-visãogeral.md)
+
