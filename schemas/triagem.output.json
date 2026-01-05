@@ -1,0 +1,15 @@
+{
+  "candidate_id": "CAND-001",
+  "role_applied": "Auxiliar Administrativo",
+  "score_aderencia": 78,
+  "resumo": "Resumo objetivo do perfil (2–4 linhas).",
+  "pontos_fortes": ["Organização", "Boa comunicação", "Vivência administrativa"],
+  "gaps": ["Pouca vivência com CRM", "Excel intermediário não comprovado"],
+  "perguntas_sugeridas": [
+    "Conte um exemplo de como você organizou demandas simultâneas.",
+    "Como você lida com prazos curtos e pressão?"
+  ],
+  "recomendacao_etapa": "Aprovado para entrevista",
+  "alertas": ["Validar nível de Excel em teste prático"],
+  "confidence": "media"
+}

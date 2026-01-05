@@ -1,0 +1,11 @@
+{
+  "candidate_id": "CAND-001",
+  "name": "Ana Silva (fictício)",
+  "email": "ana.ficticio@email.com",
+  "role_applied": "Auxiliar Administrativo",
+  "resume_text": "Experiência em rotinas administrativas, atendimento ao público e organização de documentos. Conhecimento básico em Excel.",
+  "skills": ["Atendimento", "Organização", "Excel básico"],
+  "education": "Técnico em Auxiliar Administrativo (em andamento)",
+  "source": "form",
+  "submitted_at": "2026-01-05T10:30:00-03:00"
+}
