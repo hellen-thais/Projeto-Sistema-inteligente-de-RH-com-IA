@@ -25,5 +25,6 @@ Dados 100% fictícios/simulados.
 4. Análise de Clima Organizacional
 
 ## Documentação
-- [Visão Geral](/docs/01-visãogeral.md)
+- [Visão Geral](/docs/01-visao-geral.md)
+- [Arquitetura](/docs/02-arquitetura.md)
 
